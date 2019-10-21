@@ -1,6 +1,6 @@
 # chat.ly
 
-##Example
+## Example
 
 ![Chat example](repo_assets/example.gif)
 
