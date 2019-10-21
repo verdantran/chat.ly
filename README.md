@@ -1,9 +1,14 @@
-# chat
+# chat.ly
+
+##Example
+
+![Chat example](repo_assets/example.gif)
 
 ## Project setup
 ```
 npm install
 ```
+Ensure that [Chat.ly-server](https://github.com/jburnham96/chat.ly-server) is running
 
 ### Compiles and hot-reloads for development
 ```
